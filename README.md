@@ -3,7 +3,7 @@ Desktop application which can merge two CSVs. It allows user to specify merge ty
 
 ![Main Window](MainWin.PNG "Main Window")
 
-## Programming languages and library
+## Programming languages and Library
 1. Python
 2. TKinter library
 3. Pandas library
